@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageProjectUrl>https://github.com/penguincms/Penguin.Cms.Auditing.Abstractions</PackageProjectUrl>
+    <Description>Annotations to control auditing of entities</Description>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>

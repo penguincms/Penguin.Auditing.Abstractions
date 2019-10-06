@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Penguin.Cms.Auditing.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Penguin.Cms.Auditing.Abstractions.DontAuditChangesAttribute">
+            <summary>
+            Informs the auditing system not to track changes on a property or class
+            </summary>
+        </member>
+    </members>
+</doc>
