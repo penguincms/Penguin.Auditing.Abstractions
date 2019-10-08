@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>Penguin.Cms.Auditing.Abstractions</name>
+        <name>Penguin.Auditing.Abstractions</name>
     </assembly>
     <members>
-        <member name="T:Penguin.Cms.Auditing.Abstractions.DontAuditChangesAttribute">
+        <member name="T:Penguin.Auditing.Abstractions.Attributes.DontAuditChangesAttribute">
             <summary>
-            Informs the auditing system not to track changes on a property or class
+            Informs an entity auditor not to track the property or class
             </summary>
         </member>
     </members>
