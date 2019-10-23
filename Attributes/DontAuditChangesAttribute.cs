@@ -4,9 +4,8 @@ using System.Text;
 
 namespace Penguin.Auditing.Abstractions.Attributes
 {
-
     /// <summary>
-    /// Informs an entity auditor not to track the property or class
+    /// Skips auditing changes on the class or property
     /// </summary>
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Property, AllowMultiple = false, Inherited = false)]
     public class DontAuditChangesAttribute : Attribute

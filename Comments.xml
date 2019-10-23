@@ -6,7 +6,7 @@
     <members>
         <member name="T:Penguin.Auditing.Abstractions.Attributes.DontAuditChangesAttribute">
             <summary>
-            Informs an entity auditor not to track the property or class
+            Skips auditing changes on the class or property
             </summary>
         </member>
     </members>
