@@ -1,0 +1,15 @@
+Penguin.Cms.Auditing
+Penguin.Cms.Auditing.Repositories
+Penguin.Cms.Errors
+Penguin.Cms.Logging
+Penguin.Cms.Workers
+Penguin.Cms.Workers.Email
+Penguin.Cms.Web.Errors
+Penguin.Cms.Security
+Penguin.Cms.InternalMessaging.Repositories
+Penguin.Cms.Security.Repositories
+Penguin.Cms.Web.Security
+Penguin.Cms.Web.Security.Repositories
+Penguin.Cms.Web.Security.Services
+Penguin.Cms.Workers.Entities
+Penguin.Workers.Repositories
