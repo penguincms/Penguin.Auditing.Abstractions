@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>Penguin.Auditing.Abstractions.Local</name>
+        <name>Penguin.Auditing.Abstractions</name>
     </assembly>
     <members>
         <member name="T:Penguin.Auditing.Abstractions.Attributes.DontAuditChangesAttribute">
