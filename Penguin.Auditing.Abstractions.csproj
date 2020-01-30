@@ -7,5 +7,6 @@
     <Description>Annotations for managing entity auditing</Description>
     <AssemblyName>Penguin.Auditing.Abstractions</AssemblyName>
     <RootNamespace>Penguin.Auditing.Abstractions</RootNamespace>
+    <DocumentationFile>Penguin.Auditing.Abstractions.xml</DocumentationFile>
   </PropertyGroup>
 </Project>
