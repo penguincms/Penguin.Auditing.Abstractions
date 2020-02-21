@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Penguin.Auditing.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Penguin.Auditing.Abstractions.Attributes.DontAuditChangesAttribute">
+            <summary>
+            Skips auditing changes on the class or property
+            </summary>
+        </member>
+    </members>
+</doc>
