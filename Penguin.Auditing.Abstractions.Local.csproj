@@ -2,7 +2,7 @@
   <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageProjectUrl>https://github.com/penguincms/Penguin.Auditing.Abstractions</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/PenguinCMS/Penguin.Auditing.Abstractions</PackageProjectUrl>
     <Version>5.0.5</Version>
     <Description>Annotations for managing entity auditing</Description>
     <AssemblyName>Penguin.Auditing.Abstractions</AssemblyName>
