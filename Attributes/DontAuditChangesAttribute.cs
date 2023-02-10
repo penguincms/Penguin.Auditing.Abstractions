@@ -6,7 +6,7 @@ namespace Penguin.Auditing.Abstractions.Attributes
     /// Skips auditing changes on the class or property
     /// </summary>
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Property, AllowMultiple = false, Inherited = false)]
-    public class DontAuditChangesAttribute : Attribute
+    public sealed class DontAuditChangesAttribute : Attribute
     {
     }
 }
